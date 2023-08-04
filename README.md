@@ -6,4 +6,5 @@ Welcome to the Dad Jokes Web App - the ultimate destination for the best (and ma
 3. Your joke history and votes are carefully saved, so you can revisit your favorite punchlines and relive the laughter anytime you access the website.
  
 So, don't miss out on the fun - download the app now and get ready to laugh till you cry! 🤣😄
-![Uploading image.png…]()
+![screenshot](https://github.com/quying3/dad_jokes/assets/95540866/651a05e9-8230-4b2f-95b4-629589765c87)
+
